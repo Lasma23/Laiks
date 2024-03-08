@@ -1,0 +1,15 @@
+body {
+	background-image: url("../images/background.png");
+	color: white;
+	background-repeat: no-repeat;
+	background-size: cover;
+        min-height: 100vh;
+}
+
+a:link {
+	color: silver;
+}
+
+a:visited {
+	color: grey;
+}
